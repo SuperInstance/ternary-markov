@@ -1,0 +1,9 @@
+[package]
+name = "ternary-markov"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Markov chains on ternary state spaces: transition matrices, stationary distributions, mixing times, absorbing states, entropy rates"
+repository = "https://github.com/SuperInstance/ternary-markov"
+keywords = ["ternary", "markov", "probability", "stochastic"]
+categories = ["mathematics", "algorithms", "science"]
