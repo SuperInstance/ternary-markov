@@ -116,3 +116,11 @@ fn main() {
 ## License
 
 MIT
+
+## See Also
+- **ternary-bayesian** — related
+- **ternary-language** — related
+- **ternary-predict** — related
+- **ternary-dynamics** — related
+- **ternary-hmm** — related
+
